@@ -2,6 +2,7 @@
 layout: "page"
 title: CV
 order: 1
+navigation_weight: 1
 ---
 
 Research

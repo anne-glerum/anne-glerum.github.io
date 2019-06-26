@@ -17,16 +17,13 @@ title: Anne Glerum
 email: acglerum@gmail.com
 github_username:  anne-glerum
 linkedin_username: acglerum
-facebook_username: Anne Glerum
+#facebook_username: Anne Glerum
 description: 
   I'm a postdoc at GFZ Potsdam. Welcome to my homepage. Have a look, see what I'm up to and where to reach me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 avatar: "images/Profile_picture.jpg"
 title-img: /images/Profile_picture.jpg
-
-author:
-  name: Anne Glerum
 
 # Build settings
 markdown: kramdown
@@ -37,11 +34,11 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
