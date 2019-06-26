@@ -1,6 +1,7 @@
 ---
 layout: "page"
 title: Outreach
+order: 3
 ---
 
 2017 - 2019 Editor <a href="https://blogs.egu.eu/divisions/gd/" target="target">EGU Geodynamics blog</a>
