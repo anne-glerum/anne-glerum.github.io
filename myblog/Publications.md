@@ -1,8 +1,6 @@
 ---
 layout: "page"
 title: Publications
-order: 2
-navigation_weight: 2
 ---
 
 2019

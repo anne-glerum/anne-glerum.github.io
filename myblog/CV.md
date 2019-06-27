@@ -1,14 +1,12 @@
 ---
 layout: "page"
 title: CV
-order: 1
-navigation_weight: 1
 ---
 
 Research
 ----------------------
 
-2017 - 2019 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec25/" target="target">Scientist at GFZ Potsdam</a>
+2017 - 2019 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec25/" target="target">Postdoc at GFZ Potsdam</a>
 
 2012 - 2019 PhD at Utrecht University
 
@@ -26,13 +24,13 @@ Education
 
 Invited talks
 -------------
-2017  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AGU Fall meeting, New Orleans
+2017  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AGU Fall meeting, New Orleans
 
 Awards
 ------
-2018  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NAC (Dutch Earth Scientific Conference) 2nd Prize Best poster
+2018  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NAC (Dutch Earth Scientific Conference) 2nd Prize Best poster
 
 Industry experience
 ---------------
 
-2012 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trainee office geophysicist Fugro Survey B.V. Leidschendam
+2012 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trainee office geophysicist Fugro Survey B.V. Leidschendam

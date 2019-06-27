@@ -1,8 +1,6 @@
 ---
 layout: "page"
 title: Teaching
-order: 5
-navigation_weight: 5
 ---
 
 2019 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; Practicals course <a hyperref="https://www.gfz-potsdam.de/sektion/geodynamische-modellierung/ueberblick/arbeitsgruppen/crystals-kontinentale-riftdynamik-ueber-die-skalen-hinweg/course-university-of-potsdam-201819/" target="target">*Modelling Dynamics and Structure of the Lithosphere*</a> 
