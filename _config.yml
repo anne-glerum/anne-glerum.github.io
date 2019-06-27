@@ -17,31 +17,39 @@ title: Anne Glerum
 email: acglerum@gmail.com
 github_username:  anne-glerum
 linkedin_username: acglerum
-facebook_username: Anne Glerum
+#facebook_username: Anne Glerum
 description: 
   I'm a postdoc at GFZ Potsdam. Welcome to my homepage. Have a look, see what I'm up to and where to reach me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-avatar: "images/Profile_picture.jpg"
-title-img: /images/Profile_picture.jpg
-
-author:
-  name: Anne Glerum
+avatar: "myblog/images/Profile_picture.jpg"
+title-img: /myblog/images/Profile_picture.jpg
 
 # Build settings
 markdown: kramdown
-theme: minima #jekyll-theme-cayman
+theme: minima
+#theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+
+minima:
+
+header_pages:
+  - myblog/CV.md
+  - myblog/Publications.md
+  - myblog/Conferences.md
+  - myblog/Outreach.md
+  - myblog/Teaching.md
+  - myblog/about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
