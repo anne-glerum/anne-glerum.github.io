@@ -9,7 +9,9 @@ Oral contributions
 
 2019
 ----
-**Glerum** et al. (2019), *Why does Victoria rotate? The controls of preexisting lithosphericheterogeneities on microplate rotation, tectonic regime and the stress fieldin the East African Rift System.*, Geophysical Research Abstracts, 21, <a href="https://meetingorganizer.copernicus.org/EGU2019/EGU2019-4897-1.pdf" target="target">EGU2019-4897-1</a>.
+**Glerum** (2019), *Geodynamics of complex plate boundary regions.*, Young Earth Scientists Conference, Berlin.
+
+**Glerum** et al. (2019), *Why does Victoria rotate? The controls of preexisting lithospheric heterogeneities on microplate rotation, tectonic regime and the stress field in the East African Rift System.*, Geophysical Research Abstracts, 21, <a href="https://meetingorganizer.copernicus.org/EGU2019/EGU2019-4897-1.pdf" target="target">EGU2019-4897-1</a>.
 
 Geodynamics 101A: Numerical methods, Shortcourse, EGU 2019.
 
@@ -23,3 +25,8 @@ Poster contributions
 ====================
 
 For a list of recent poster contributions, see <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec25/" target="target">my GFZ website</a>.
+
+ASPECT Hackathons
+=================
+2013-2019
+
