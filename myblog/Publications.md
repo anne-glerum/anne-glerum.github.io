@@ -5,6 +5,9 @@ title: Publications
 
 2019
 ----
+Rajaonarison et al. (2019), *Numerical Modeling of Mantle Flow Beneath Madagascar to Constrain 
+Upper Mantle Rheology Beneath Continental Regions*, Journal of Geophysical Research Solid Earth, 125, 2, <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB018560?af=R" target="target">10.1029/2019JB018560</a>.
+
 Corti et al. (2019), *Aborted propagation of the Ethiopian rift caused by linkage with the Kenyan rift*, Nature Communications, 10, 1, 1309, <a href="https://www.nature.com/articles/s41467-019-09335-2" target="target">10.1038/s41467-019-09335-2</a>.
 
 Fraters et al. (2019), *Efficient and practical Newton solvers for nonlinear Stokes systems in geodynamic problems*, Geophysical Journal International, 218, 2, 873--894, <a href="https://academic.oup.com/gji/article/218/2/873/5475649" target="target">10.1093/gji/ggz183</a>.

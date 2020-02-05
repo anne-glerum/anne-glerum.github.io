@@ -6,7 +6,7 @@ title: CV
 Research
 ----------------------
 
-2017 - 2019 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec25/" target="target">Postdoc at GFZ Potsdam</a>
+2017 - 2021 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec25/" target="target">Postdoc at GFZ Potsdam</a> in the CRYSTALS group
 
 2012 - 2019 PhD at Utrecht University
 
@@ -25,13 +25,22 @@ Education
 Invited talks
 -------------
 2019  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Young Earth Scientist Conference, Berlin 
+
 2017  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AGU Fall meeting, New Orleans
 
-Awards
+Grants & awards
 ------
+2019  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Geo.X travel grant Ada Lovelace Workshop 
+
 2018  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NAC (Dutch Earth Scientific Conference) 2nd Prize Best poster
 
 Industry experience
 ---------------
 
 2012 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trainee office geophysicist Fugro Survey B.V. Leidschendam
+
+
+Certification & training
+------------------------
+2019 - 2020 Viadrina Postdoc Mentoring Program
+
