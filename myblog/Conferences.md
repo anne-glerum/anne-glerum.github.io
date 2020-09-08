@@ -5,8 +5,10 @@ title: Conferences
 
 Oral contributions
 ------------------
+
 2019
-=====
+====
+
 **Glerum** (2019), *Geodynamics of complex plate boundary regions.*, Young Earth Scientists Conference, Berlin.
 
 **Glerum** et al. (2019), *Why does Victoria rotate? The controls of preexisting lithospheric heterogeneities on microplate rotation, tectonic regime and the stress field in the East African Rift System.*, Geophysical Research Abstracts, 21, <a href="https://meetingorganizer.copernicus.org/EGU2019/EGU2019-4897-1.pdf" target="target">EGU2019-4897-1</a>.
