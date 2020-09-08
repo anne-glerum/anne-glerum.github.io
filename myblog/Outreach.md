@@ -2,7 +2,7 @@
 layout: "page"
 title: Outreach
 ---
-2020 - Our <a href="https://rdcu.be/b6VOm" target="target">Victoria paper</a> got featured in the media, e.g. in <a href="https://www.newsweek.com/one-africas-tectonic-plates-rotating-different-direction-all-others-1509682" target="target">Newsweek</a> and <a href="https://www.sciencedaily.com/releases/2020/06/200608092937.htm" target="target">Science Daily</a>.
+2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our <a href="https://rdcu.be/b6VOm" target="target">Victoria paper</a> got featured in the media, e.g. in <a href="https://www.newsweek.com/one-africas-tectonic-plates-rotating-different-direction-all-others-1509682" target="target">Newsweek</a> and <a href="https://www.sciencedaily.com/releases/2020/06/200608092937.htm" target="target">Science Daily</a>.
 
 2017 - 2020 Editor <a href="https://blogs.egu.eu/divisions/gd/" target="target">EGU Geodynamics blog</a>
 
