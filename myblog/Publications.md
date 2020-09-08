@@ -3,11 +3,24 @@ layout: "page"
 title: Publications
 ---
 
+2020
+----
+**Glerum** et al. (2020), *Victoria continental microplate dynamics controlled by the lithospheric strength distribution of the East African Rift*, Nature Communications, 11, 2881, <a href="https://doi.org/10.1038/s41467-020-16176-x" target="target">10.1038/s41467-020-16176-x</a>.
+
+Muluneh et al. (2020), *Mechanism for deep crustal seismicity: Insight from modeling of deformation process at the Main Ethiopian Rift*, Geochemistry Geophysics Geosystems, 21, 7, <a href="https://doi.org/10.1029/2020GC008935" target="target"></a>.
+
+Naliboff et al. (2020), *Development of 3D rift heterogeneity through fault network evolution*, Geophysical Research Letters, 47, 13, <a href="https://doi.org/10.1029/2019GL086611" target="target">10.1029/2019GL086611</a>
+
+Rajaonarison et al. (2020), *Numerical modeling of mantle flow beneath Madagascar to constrain upper mantle rheology beneath continental regions*, Journal of Geophysical Research: Solid Earth, 125, 2, <a href="https://doi.org/10.1029/2019JB018560" target="target"></a>.
+
+
 2019
 ----
 Corti et al. (2019), *Aborted propagation of the Ethiopian rift caused by linkage with the Kenyan rift*, Nature Communications, 10, 1, 1309, <a href="https://www.nature.com/articles/s41467-019-09335-2" target="target">10.1038/s41467-019-09335-2</a>.
 
 Fraters et al. (2019), *Efficient and practical Newton solvers for nonlinear Stokes systems in geodynamic problems*, Geophysical Journal International, 218, 2, 873--894, <a href="https://academic.oup.com/gji/article/218/2/873/5475649" target="target">10.1093/gji/ggz183</a>.
+
+**Glerum, A.** (2019), *Geodynamics of complex plate boundary regions: Insights from numerical models of convergent eastern Mediterranean and divergent east African plate tectonics*, PhD Thesis, (Utrecht Studies in Earth Sciences, 175), Utrecht: Utrecht University, Department of Earth Sciences.
 
 
 2018
