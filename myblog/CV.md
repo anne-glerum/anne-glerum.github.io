@@ -6,7 +6,7 @@ title: CV
 Research
 ----------------------
 
-2017 - 2019 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec25/" target="target">Postdoc at GFZ Potsdam</a>
+2017 - 2021 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec25/" target="target">Postdoc at GFZ Potsdam</a>
 
 2012 - 2019 PhD at Utrecht University
 
@@ -24,7 +24,10 @@ Education
 
 Invited talks
 -------------
+2021  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CEED Seminar Series
+
 2019  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Young Earth Scientist Conference, Berlin 
+
 2017  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AGU Fall meeting, New Orleans
 
 Awards
