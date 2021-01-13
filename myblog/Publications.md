@@ -7,11 +7,11 @@ title: Publications
 ----
 **Glerum** et al. (2020), *Victoria continental microplate dynamics controlled by the lithospheric strength distribution of the East African Rift*, Nature Communications, 11, 2881, <a href="https://doi.org/10.1038/s41467-020-16176-x" target="target">10.1038/s41467-020-16176-x</a>.
 
-Muluneh et al. (2020), *Mechanism for deep crustal seismicity: Insight from modeling of deformation process at the Main Ethiopian Rift*, Geochemistry Geophysics Geosystems, 21, 7, <a href="https://doi.org/10.1029/2020GC008935" target="target"></a>.
+Muluneh et al. (2020), *Mechanism for deep crustal seismicity: Insight from modeling of deformation process at the Main Ethiopian Rift*, Geochemistry Geophysics Geosystems, 21, 7, <a href="https://doi.org/10.1029/2020GC008935" target="target">10.1029/2020GC008935</a>.
 
 Naliboff et al. (2020), *Development of 3D rift heterogeneity through fault network evolution*, Geophysical Research Letters, 47, 13, <a href="https://doi.org/10.1029/2019GL086611" target="target">10.1029/2019GL086611</a>
 
-Rajaonarison et al. (2020), *Numerical modeling of mantle flow beneath Madagascar to constrain upper mantle rheology beneath continental regions*, Journal of Geophysical Research: Solid Earth, 125, 2, <a href="https://doi.org/10.1029/2019JB018560" target="target"></a>.
+Rajaonarison et al. (2020), *Numerical modeling of mantle flow beneath Madagascar to constrain upper mantle rheology beneath continental regions*, Journal of Geophysical Research: Solid Earth, 125, 2, <a href="https://doi.org/10.1029/2019JB018560" target="target">10.1029/2019JB018560</a>.
 
 
 2019

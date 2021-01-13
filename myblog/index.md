@@ -11,6 +11,6 @@ Me in a nutshell:
 * Living in Berlin
 * Pet lover
 * Green thumb
-* Pilates fan
+* yoga fan
 * and books, books are amazing. 
 
