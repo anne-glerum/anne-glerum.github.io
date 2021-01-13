@@ -14,6 +14,10 @@ Me in a nutshell:
 * Living in Berlin
 * Pet lover
 * Green thumb
-* Pilates fan
-* and books, books are amazing. 
-
+* yoga fan
+* and books, books are amazing. My favorite books of 2020: 
+  * The book of longings by Sue Monk Kidd, 
+  * The world that we knew by Alice Hoffman,
+  * Circe by Madeline Miller, 
+  * The count of Monte Cristo by Alexandre Dumas and 
+  * Little women by Louisa May Alcott. 
