@@ -20,7 +20,7 @@ Solid‐Block Rotation and Apparent Unbending*, Geochemistry, Geophysics, Geosys
 pp. 1–25, <a href="https://doi.org/10.1029/2021GC009681" target="target">10.1029/2021GC009681</a>.
 
 van Zelst, I. et al. (2021). *101 Geodynamic modelling: How to design, carry out, and interpret
-numerical studies*, Solid Earth Discussions, pp. 1–80, <a href="https://doi.org/10.5194/se-2021-14" target="target"></a>.
+numerical studies*, Solid Earth Discussions, pp. 1–80, <a href="https://doi.org/10.5194/se-2021-14" target="target">10.5194/se-2021-14</a>.
 
 2020
 ----
