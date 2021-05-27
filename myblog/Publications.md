@@ -10,17 +10,17 @@ in Continental Rifts?*, Geochemistry, Geophysics, Geosystems 22.3, <a href="http
 
 Neuharth, D. et al. (2021), *Formation of Continental Microplates Through Rift Linkage: Numerical
 Modeling and Its Application to the Flemish Cap and Sao Paulo Plateau*, Geochemistry,
-Geophysics, Geosystems 22.4, <a href="https://doi.org/10.1029/2020GC009615"target="target">10.1029/2020GC009615</a>.
+Geophysics, Geosystems 22.4, <a href="https://doi.org/10.1029/2020GC009615" target="target">10.1029/2020GC009615</a>.
 
 Richter, M. J. E. A. et al. (2021), *Controls on Asymmetric Rift Dynamics: Numerical Modeling
-of Strain Localization and Fault Evolution in the Kenya Rift*, Tectonics, <a href="https://doi.org/10.1029/2020tc006553"target="target">10.1029/2020tc006553</a>.
+of Strain Localization and Fault Evolution in the Kenya Rift*, Tectonics, <a href="https://doi.org/10.1029/2020tc006553" target="target">10.1029/2020tc006553</a>.
 
 Sandiford, D. et al. (2021). *Kinematics of Footwall Exhumation at Oceanic Detachment faults:
 Solid‐Block Rotation and Apparent Unbending*, Geochemistry, Geophysics, Geosystems 22.4,
-pp. 1–25, <a href="https://doi.org/10.1029/2021GC009681"target="target">10.1029/2021GC009681</a>.
+pp. 1–25, <a href="https://doi.org/10.1029/2021GC009681" target="target">10.1029/2021GC009681</a>.
 
 van Zelst, I. et al. (2021). *101 Geodynamic modelling: How to design, carry out, and interpret
-numerical studies*, Solid Earth Discussions, pp. 1–80, <a href="https://doi.org/10.5194/se-2021-14"target="target"></a>.
+numerical studies*, Solid Earth Discussions, pp. 1–80, <a href="https://doi.org/10.5194/se-2021-14" target="target"></a>.
 
 2020
 ----
