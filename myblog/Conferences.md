@@ -16,6 +16,8 @@ Oral contributions
 
 Geodynamics 101A: Numerical methods, Shortcourse, EGU 2019.
 
+**Glerum** (2019), *Geodynamics of complex plate boundary regions.*, Young Earth Scientists Conference, Berlin.
+
 2017
 ====
 Thieulot, **Glerum** et al. (2017), *Instantaneous dynamics modeling of present-day Aegean subduction*, AGU 2017, <a href="https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/289772" target="target">T52A-03</a>.
