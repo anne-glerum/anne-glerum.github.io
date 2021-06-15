@@ -8,7 +8,7 @@ Oral contributions
 
 2021
 ====
-**Glerum**, *Continental rift interaction and the formation of rotating continental microplates*, Geophysics and Tectonics Seminar.
+**Glerum**, *Continental rift interaction and the formation of rotating continental microplates*, Geophysics and Tectonics Seminar. Watch this presentation on <a href="https://www.youtube.com/watch?v=nEpIzY-VsbY" target="target">YouTube</a>.
 
 2019
 ====
