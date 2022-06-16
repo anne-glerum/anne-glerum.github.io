@@ -19,7 +19,7 @@ github_username:  anne-glerum
 linkedin_username: acglerum
 #facebook_username: Anne Glerum
 description: 
-  Welcome! Have a look, see what I'm up to and where to reach me.
+  Welcome! See what I'm up to and where to reach me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 avatar: "myblog/assets/images/Profile_picture_small.jpg"
