@@ -4,6 +4,7 @@ title: Teaching
 ---
 | | |
 |-----|------|
+|2022|DOME workshop|
 |2020|CIG Virtual tectonics workshop|
 |2020|Practicals course *Introduction to numerical modeling* @ University of Potsdam|
 |2019|Practicals course *Modelling Dynamics and Structure of the Lithosphere* @ University of Potsdam|
