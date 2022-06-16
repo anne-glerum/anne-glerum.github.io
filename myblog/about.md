@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am a postdoctoral researcher at GFZ Potsdam working on the numerical modeling of continental rifting. I use the massively parallel, finite element code ASPECT for 3D, time-dependent, visco-elasto-plastic rift modeling. My focus lies on differentiating between the different geodynamic drivers of the East African Rift System. I am also a maintainer of the ASPECT software and an editor for the EGU Geodynamics blog. Please get in touch on any of these topics!
+I am a postdoctoral researcher at GFZ Potsdam working on the numerical modeling of continental rifting and its control on the formation of sediment-hosted metal deposits. My main tool is the massively parallel, finite element code ASPECT, which I am currently coupling to a hydrothermal fluid flow code. I am also a maintainer of the ASPECT software. Please get in touch on any of these topics!

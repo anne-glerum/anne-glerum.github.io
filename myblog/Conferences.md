@@ -6,9 +6,18 @@ title: Conferences & Seminars
 Oral contributions
 ------------------
 
+2022
+====
+**Glerum** et al. (invited), *Geodynamic drivers of the East African Rift System*, EGU 2022.
+
+
 2021
 ====
-**Glerum**, *Continental rift interaction and the formation of rotating continental microplates*, Geophysics and Tectonics Seminar. Watch this presentation on <a href="https://www.youtube.com/watch?v=nEpIzY-VsbY" target="target">YouTube</a>.
+**Glerum** et al. (invited), *Geodynamic drivers of the East African Rift System*, AGU 2021.
+
+**Glerum** et al. (invited), *Coupling geodynamics and surface processes*, MCS/SZ4D workshop 2021.
+
+**Glerum** et al., *Continental rift interaction and the formation of rotating continental microplates*, Geophysics and Tectonics Seminar. Watch this presentation on <a href="https://www.youtube.com/watch?v=nEpIzY-VsbY" target="target">YouTube</a>.
 
 2019
 ====
@@ -18,7 +27,11 @@ Geodynamics 101A: Numerical methods, Shortcourse, EGU 2019.
 
 2017
 ====
-Thieulot, **Glerum** et al. (2017), *Instantaneous dynamics modeling of present-day Aegean subduction*, AGU 2017, <a href="https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/289772" target="target">T52A-03</a>.
+Thieulot, **Glerum** et al. (invited), *Instantaneous dynamics modeling of present-day Aegean subduction*, AGU 2017, <a href="https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/289772" target="target">T52A-03</a>.
+
+2012
+====
+**Glerum** et al., NAC 2012, the Netherlands.
 
 Poster contributions
 --------------------
@@ -26,5 +39,5 @@ For a list of recent poster contributions, see <a href="https://www.gfz-potsdam.
 
 ASPECT Hackathons
 -----------------
-2013-2020
+2013-2022
 

@@ -15,9 +15,10 @@ Me in a nutshell:
 * pet lover
 * green thumb
 * yoga fan
-* and books, books are amazing. My favorite books of 2020: 
-  * _The book of longings_ by Sue Monk Kidd, 
-  * _The world that we knew_ by Alice Hoffman,
-  * _Circe_ by Madeline Miller, 
-  * _The count of Monte Cristo_ by Alexandre Dumas and 
-  * _Little women_ by Louisa May Alcott. 
+* and books, books are amazing. My favorite books of 2022: 
+  * _This changes everything: capitalism vs. the climate_ by Naomi Klein, 
+  * _Parable of the Sower_ by Octavia E. Butler,
+  * _Finding Mrs. Ford_ by Deborah Goodrich Royce,
+  * _The last palace: Europe's turbulent century in five lives and one legendary house_ by Norman Eisen,
+  * _State of terror_ by Hillary Rodham Clinton and Louise Penny and
+  * _Americanah_ by Chimamanda Ngozi Adichie. 

@@ -3,6 +3,21 @@ layout: "page"
 title: Publications
 ---
 
+
+2022
+----
+
+Glerum, A. et al. (in review). *Sensitivity of horizontal surface deformation to mantle dynamics from 3D instantaneous dynamics modeling of the eastern Mediterranean*, <a href="https://doi.org/10.31223/X5FW59"target="target">10.31223/X5FW59</a>
+
+Gernon, T. M. et al. (in review). *Diamond ascent by rift-driven disruption of cratonic mantle keels*, Nature, <a href="https://doi.org/10.21203/rs.3.rs-986686/v1"target="target">10.21203/rs.3.rs-986686/v1</a>.
+
+Neuharth, D. et al. (2022). *Flexural strike-slip basins*, Geology, 50.3, pp. 361-365, <a href="https://doi.org/10.1130/G49351.1" target="target">10.1130/G49351.1</a>.
+
+Neuharth, D. et al. (2022). *Evolution of rift systems and their fault networks in response to surface processes*, Tectonics, 41.e2021TC007166, <a href="https://doi.org/10.1029/2021TC007166" target="target">10.1029/2021TC007166</a>.
+
+van Zelst, I. et al. (2022). *101 Geodynamic modelling: How to design, carry out, and interpret
+numerical studies*, Solid Earth, 13, pp. 583-637, <a href="https://doi.org/10.5194/se-13-583-2022" target="target">10.5194/se-13-583-2022</a>.
+
 2021
 ----
 Heckenbach, E. L. et al. (2021), *Is There a Speed Limit for the Thermal Steady‐State Assumption
@@ -13,14 +28,12 @@ Modeling and Its Application to the Flemish Cap and Sao Paulo Plateau*, Geochemi
 Geophysics, Geosystems 22.4, <a href="https://doi.org/10.1029/2020GC009615" target="target">10.1029/2020GC009615</a>.
 
 Richter, M. J. E. A. et al. (2021), *Controls on Asymmetric Rift Dynamics: Numerical Modeling
-of Strain Localization and Fault Evolution in the Kenya Rift*, Tectonics, <a href="https://doi.org/10.1029/2020tc006553" target="target">10.1029/2020tc006553</a>.
+of Strain Localization and Fault Evolution in the Kenya Rift*, Tectonics, 40, <a href="https://doi.org/10.1029/2020tc006553" target="target">10.1029/2020tc006553</a>.
 
 Sandiford, D. et al. (2021). *Kinematics of Footwall Exhumation at Oceanic Detachment faults:
 Solid‐Block Rotation and Apparent Unbending*, Geochemistry, Geophysics, Geosystems 22.4,
 pp. 1–25, <a href="https://doi.org/10.1029/2021GC009681" target="target">10.1029/2021GC009681</a>.
 
-van Zelst, I. et al. (2021). *101 Geodynamic modelling: How to design, carry out, and interpret
-numerical studies*, Solid Earth Discussions, pp. 1–80, <a href="https://doi.org/10.5194/se-2021-14" target="target">10.5194/se-2021-14</a>.
 
 2020
 ----
