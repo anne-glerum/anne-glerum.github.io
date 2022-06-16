@@ -7,9 +7,9 @@ title: Publications
 2022
 ----
 
-Glerum, A. et al. (in review). *Sensitivity of horizontal surface deformation to mantle dynamics from 3D instantaneous dynamics modeling of the eastern Mediterranean*, <a href="https://doi.org/10.31223/X5FW59"target="target">10.31223/X5FW59</a>
+**Glerum** et al. (in review). *Sensitivity of horizontal surface deformation to mantle dynamics from 3D instantaneous dynamics modeling of the eastern Mediterranean*, <a href="https://doi.org/10.31223/X5FW59" target="target">10.31223/X5FW59</a>.
 
-Gernon, T. M. et al. (in review). *Diamond ascent by rift-driven disruption of cratonic mantle keels*, Nature, <a href="https://doi.org/10.21203/rs.3.rs-986686/v1"target="target">10.21203/rs.3.rs-986686/v1</a>.
+Gernon, T. M. et al. (in review). *Diamond ascent by rift-driven disruption of cratonic mantle keels*, Nature, <a href="https://doi.org/10.21203/rs.3.rs-986686/v1" target="target">10.21203/rs.3.rs-986686/v1</a>.
 
 Neuharth, D. et al. (2022). *Flexural strike-slip basins*, Geology, 50.3, pp. 361-365, <a href="https://doi.org/10.1130/G49351.1" target="target">10.1130/G49351.1</a>.
 
