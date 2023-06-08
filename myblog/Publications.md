@@ -4,13 +4,22 @@ title: Publications
 ---
 
 
-2022
+2023
 ----
+**Glerum** et al. (in prep). *Geodynamic control on clastic-dominated metal deposits*.
+
+Vasey et al. (in prep). *The structural style of intracontinental rift-inversion orogens*. 
 
 **Glerum** et al. (in review). *Sensitivity of horizontal surface deformation to mantle dynamics from 3D instantaneous dynamics modeling of the eastern Mediterranean*, <a href="https://doi.org/10.31223/X5FW59" target="target">10.31223/X5FW59</a>.
 
-Gernon, T. M. et al. (in review). *Diamond ascent by rift-driven disruption of cratonic mantle keels*, Nature, <a href="https://doi.org/10.21203/rs.3.rs-986686/v1" target="target">10.21203/rs.3.rs-986686/v1</a>.
+Bodur, O. et al. (in review). *Crustal flow driving core complex exhumation and low-angle normal faulting in the central Menderes Massif of western Anatolia*, Earth and Planetary Science Letters.
 
+Gernon, T. M. et al. (in press). *Rift-induced disruption of cratonic keels drives kimberlite volcanism*, Nature, <a href="https://doi.org/10.21203/rs.3.rs-986686/v1" target="target">10.21203/rs.3.rs-986686/v1</a>.
+
+Schmid, T. C. et al. (2023). *Tectonic interactions during rift linkage: insights from analog and numerical experiments*, Solid Earth, 14, 4, 389-407, <a href="https://doi.org/10.5194/se-14-389-2023" target="target">10.5194/se-14-389-2023</a>.
+
+2022
+----
 Neuharth, D. et al. (2022). *Flexural strike-slip basins*, Geology, 50.3, pp. 361-365, <a href="https://doi.org/10.1130/G49351.1" target="target">10.1130/G49351.1</a>.
 
 Neuharth, D. et al. (2022). *Evolution of rift systems and their fault networks in response to surface processes*, Tectonics, 41.e2021TC007166, <a href="https://doi.org/10.1029/2021TC007166" target="target">10.1029/2021TC007166</a>.

@@ -3,11 +3,19 @@ layout: "page"
 title: Grants & Awards
 ---
 
+2023
+----
+Team member DFG Proposal SPP 2238 DOME (in review).
+
+Team member [HORIZON MSCA doctoral network TALENTS](https://www.gfz-potsdam.de/en/section/geodynamic-modeling/overview/section-news?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3318&cHash=85c1b1efb7fe86ec22038076a2fea7d5).
+
+HPC time on HRLN cluster, Germany. Project: [The Afro-Arabian rift system](https://zulassung.hlrn.de/kurzbeschreibungen/bbp00064.pdf), phase 1. Monetary equivalent: E732,490.
+
+Project administrator HPC time on HRLN cluster, Germany. Project: [Geodynamic modeling of the crust, lithosphere and mantle](https://zulassung.hlrn.de/kurzbeschreibungen/bbp00039.pdf), phase 4. Monetary equivalent: E1,395,362.
+
 2022
 ----
 Project administrator HPC time on HRLN cluster, Germany. Project: [Geodynamic modeling of the crust, lithosphere and mantle](https://zulassung.hlrn.de/kurzbeschreibungen/bbp00039.pdf), phase 3. Monetary equivalent: E1,300,000.
-
-DFG proposal for a three-year Postdoc position, Germany. Project: Tectonic control on geothermal systems in active continental rifts. In review.
 
 2021
 ----

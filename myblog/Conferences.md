@@ -5,9 +5,14 @@ title: Conferences & Seminars
 
 Oral contributions
 ------------------
+2023
+====
+**Glerum** et al., *Craton control on sediment-hosted metal deposits in continental rifts*, EGU 2023.
 
 2022
 ====
+**Glerum** et al. (invited), *Craton control on sediment-hosted metal deposits*, University of Florida Geological Science Seminar.
+
 **Glerum** et al. (invited), *Geodynamic drivers of the East African Rift System*, EGU 2022.
 
 
@@ -39,5 +44,5 @@ For a list of recent poster contributions, see <a href="https://www.gfz-potsdam.
 
 ASPECT Hackathons
 -----------------
-2013-2022
+2013-2023
 
