@@ -5,7 +5,7 @@ title: Short CV
 
 Click [here](assets/Glerum_CV_2022.pdf) for a pdf of my complete CV.
 
-Research
+Research positions
 ----------------------
 2021 - 2024 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec31/" target="target">Postdoc at GFZ Potsdam</a> in the Inorganic and Isotope Geochemistry Section, working with Prof. Sarah Gleeson. 
 

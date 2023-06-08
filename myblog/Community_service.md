@@ -3,7 +3,9 @@ layout: "page"
 title: Community service
 ---
 
-Manuscript review for Tectonophysics, Geophysical Research Letters, Tectonics and Geochemistry, Geophysics, Geosystems. 
+Manuscript review for Tectonophysics, Tectonics, Geology, Geophysical Research Letters, and Geochemistry, Geophysics, Geosystems. 
+
+Proposal review for NSF.
 
 2022
 ----
