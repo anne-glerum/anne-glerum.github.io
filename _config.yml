@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Anne Glerum
-email: acglerum@gmail.com
+title: Dr. Anne Glerum
+email: acglerum@gfz-potsdam.de
 github_username:  anne-glerum
 linkedin_username: acglerum
 #facebook_username: Anne Glerum
@@ -42,6 +42,7 @@ header_pages:
   - myblog/Community_service.md
   - myblog/Outreach.md
   - myblog/Teaching.md
+  - myblog/Hobbies.md
   - myblog/about.md
 
 # Exclude from processing.
