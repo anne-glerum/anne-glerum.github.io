@@ -14,6 +14,8 @@ Vasey et al. (in prep). *The structural style of intracontinental rift-inversion
 
 Bodur, O. et al. (in review). *Crustal flow driving core complex exhumation and low-angle normal faulting in the central Menderes Massif of western Anatolia*, Earth and Planetary Science Letters.
 
+Heckenbach, E. L. et al. (in review). *3D Interaction of Tectonics and Surface Processes explains Fault Network Evolution of the Dead Sea Fault*. Nature Communications.
+
 Gernon, T. M. et al. (in press). *Rift-induced disruption of cratonic keels drives kimberlite volcanism*, Nature, <a href="https://doi.org/10.21203/rs.3.rs-986686/v1" target="target">10.21203/rs.3.rs-986686/v1</a>.
 
 Schmid, T. C. et al. (2023). *Tectonic interactions during rift linkage: insights from analog and numerical experiments*, Solid Earth, 14, 4, 389-407, <a href="https://doi.org/10.5194/se-14-389-2023" target="target">10.5194/se-14-389-2023</a>.
