@@ -77,3 +77,6 @@ Yamaguchi et al. (2018), *Viscoelastic Crustal Deformation Computation Method wi
 ----
 Tosi et al. (2015), *A community benchmark for viscoplastic thermal convection in a 2-D square box*. Geochemistry, Geophysics, Geosystems (16), 2175--2196, <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GC005807" target="target">10.1002/2015GC005807</a>.
 
+
+My [Orcid page](https://orcid.org/0000-0002-9481-1749) & my [Google Scholar page](https://scholar.google.com/citations?user=VTkh5cMAAAAJ&hl=en&inst=7240083048524121927&oi=sra).
+
