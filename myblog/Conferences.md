@@ -5,9 +5,14 @@ title: Conferences & Seminars
 
 Oral contributions
 ------------------
+
 2023
 ====
 **Glerum** et al., *Craton control on sediment-hosted metal deposits in continental rifts*, EGU 2023.
+
+**Glerum** et al. (invited), *Victoria continental microplate dynamics*, [Rifts and Rifted Margins Seminar Series](https://www.gfz-potsdam.de/sektion/geodynamische-modellierung/projekte/rift-and-rifted-margins-online-seminar/), recording [here](https://www.youtube.com/watch?v=038303NvKpo).
+
+**Glerum** et al., *Craton control on sediment-hosted metal deposits*, ASPECT Virtual User Meeting 2023.
 
 2022
 ====
