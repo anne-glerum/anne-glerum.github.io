@@ -8,3 +8,4 @@ I am a postdoctoral researcher at GFZ Potsdam working on the numerical modeling 
 
 ![Anne Glerum in front of rift valley in Kenya](./assets/images/Anne_RiftValley.jpg "Anne Glerum in front of rift valley in Kenya")
 ![Anne Glerum in front of rift valley in Kenya]({{site.baseurl}}/assets/images/Anne_RiftValley.jpg "Anne Glerum in front of rift valley in Kenya")
+![Anne Glerum in front of rift valley in Kenya](https://github.com/anne-glerum/anne-glerum.github.io/raw/master/myblog/assets/images/Anne_RiftValley.jpg "Anne Glerum in front of rift valley in Kenya")
