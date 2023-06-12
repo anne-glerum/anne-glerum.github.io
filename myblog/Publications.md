@@ -10,9 +10,9 @@ title: Publications
 
 Vasey et al. (in prep). *The structural style of intracontinental rift-inversion orogens*. 
 
-**Glerum** et al. (in review). *Sensitivity of horizontal surface deformation to mantle dynamics from 3D instantaneous dynamics modeling of the eastern Mediterranean*, <a href="https://doi.org/10.31223/X5FW59" target="target">10.31223/X5FW59</a>.
+**Glerum** et al. (in revision). *Sensitivity of horizontal surface deformation to mantle dynamics from 3D instantaneous dynamics modeling of the eastern Mediterranean*, <a href="https://doi.org/10.31223/X5FW59" target="target">10.31223/X5FW59</a>.
 
-Bodur, O. et al. (in review). *Crustal flow driving core complex exhumation and low-angle normal faulting in the central Menderes Massif of western Anatolia*, Earth and Planetary Science Letters.
+Bodur, O. et al. (in revision). *Crustal flow driving core complex exhumation and low-angle normal faulting in the central Menderes Massif of western Anatolia*, Earth and Planetary Science Letters.
 
 Heckenbach, E. L. et al. (in review). *3D Interaction of Tectonics and Surface Processes explains Fault Network Evolution of the Dead Sea Fault*. Nature Communications.
 
