@@ -5,7 +5,9 @@ title: Grants & Awards
 
 2023
 ----
-Team member DFG Proposal SPP 2238 DOME (in review).
+GFZ Award for Young Scientists 2020 [(awarded 2023)](https://www.gfz-potsdam.de/en/section/geodynamic-modeling/overview/section-news?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3614&cHash=57ddc0d9b13867313e54242e523ea8bc).
+
+Team member DFG Proposal SPP 2238 DOME. Project: Reactive Transport Modelling of Ore Formation in Sedimentary Basins.
 
 Team member [HORIZON MSCA doctoral network TALENTS](https://www.gfz-potsdam.de/en/section/geodynamic-modeling/overview/section-news?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=3318&cHash=85c1b1efb7fe86ec22038076a2fea7d5).
 
