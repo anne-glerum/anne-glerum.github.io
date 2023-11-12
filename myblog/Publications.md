@@ -6,17 +6,17 @@ title: Publications
 
 2023
 ----
-**Glerum** et al. (in prep). *Geodynamic control on clastic-dominated metal deposits*.
+**Glerum** et al. (in review). *Geodynamic control on clastic-dominated metal deposits*.
 
-Vasey et al. (in prep). *The structural style of intracontinental rift-inversion orogens*. 
+Vasey et al. (in revision). *The structural style of intracontinental rift-inversion orogens*. 
 
 **Glerum** et al. (in revision). *Sensitivity of horizontal surface deformation to mantle dynamics from 3D instantaneous dynamics modeling of the eastern Mediterranean*, <a href="https://doi.org/10.31223/X5FW59" target="target">10.31223/X5FW59</a>.
 
-Bodur, O. et al. (in revision). *Crustal flow driving core complex exhumation and low-angle normal faulting in the central Menderes Massif of western Anatolia*, Earth and Planetary Science Letters.
+Bodur, O. et al. (2023). *Crustal flow driving twin domes exhumation and low-angle normal faulting in the Menderes Massif of western Anatolia*, Earth and Planetary Science Letters, 619, 118309, <a href="https://doi.org/10.1016/j.epsl.2023.118309" target="target">10.1016/j.epsl.2023.118309</a>.
 
-Heckenbach, E. L. et al. (in review). *3D Interaction of Tectonics and Surface Processes explains Fault Network Evolution of the Dead Sea Fault*. Nature Communications.
+Heckenbach, E. L. et al. (in revision). *3D Interaction of Tectonics and Surface Processes explains Fault Network Evolution of the Dead Sea Fault*. Nature Communications.
 
-Gernon, T. M. et al. (in press). *Rift-induced disruption of cratonic keels drives kimberlite volcanism*, Nature, <a href="https://doi.org/10.21203/rs.3.rs-986686/v1" target="target">10.21203/rs.3.rs-986686/v1</a>.
+Gernon, T. M. et al. (2023). *Rift-induced disruption of cratonic keels drives kimberlite volcanism*, Nature, 620, 344-350,<a href="https://doi.org/10.1038/s41586-023-06193-3" target="target">10.1038/s41586-023-06193-3</a>.
 
 Schmid, T. C. et al. (2023). *Tectonic interactions during rift linkage: insights from analog and numerical experiments*, Solid Earth, 14, 4, 389-407, <a href="https://doi.org/10.5194/se-14-389-2023" target="target">10.5194/se-14-389-2023</a>.
 
