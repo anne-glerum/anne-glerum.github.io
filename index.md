@@ -10,7 +10,7 @@ layout: home
 
 
 I am a postdoctoral researcher at GFZ Potsdam in Germany. As a geodynamicist, I use numerical models to understand plate boundary deformation. Divergent plate boundaries get my particular attention;
-at the moment I am trying to pinpoint what geodynamic conditions make the formation of giant sediment-hosted metal deposits possible. The biggest source of lead and zinc, clastic-dominated mineral deposits in rifts and rifted margins are crucial for future societies and the energy transition. 
+at the moment I am trying to pinpoint what geodynamic conditions make the formation of giant sediment-hosted metal deposits possible ([see here for the preprint](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2518/)). The biggest source of lead and zinc, clastic-dominated mineral deposits in rifts and rifted margins are crucial for future societies and the energy transition. 
 
 East African Rift System
 ------------------------
