@@ -4,17 +4,24 @@ title: Publications
 ---
 
 
+2024
+----
+**Glerum** et al. (in review). *Geodynamic control on clastic-dominated metal deposits*, EGUsphere [preprint], <a href="https://doi.org/10.5194/egusphere-2023-2518"target="target">10.5194/egusphere-2023-2518</a>.
+
+Vasey et al. (2024). *Impact of rift history on the structural style of intracontinental rift-inversion orogens*, Geology, <a href="https://doi.org/10.1130/G51489.1" target="target">10.1130/G51489.1</a>. 
+
+Zwaan et al. (in review). *Rift-inversion orogens are potential hotspots for natural H2 generation*, Research Square [preprint], <a href="https://doi.org/10.21203/rs.3.rs-3367317/v1" target="target">10.21203/rs.3.rs-3367317/v1</a>.
+
+Zwaan et al. (in review). *(D)rifting in the 21st century: Key processes, natural hazards and geo-resources*, EGUsphere [preprint], <a href="https://doi.org/10.5194/egusphere-2023-2548" target="target">10.5194/egusphere-2023-2548</a>.
+
+
 2023
 ----
-**Glerum** et al. (in review). *Geodynamic control on clastic-dominated metal deposits*.
-
-Vasey et al. (in revision). *The structural style of intracontinental rift-inversion orogens*. 
-
 **Glerum** et al. (in revision). *Sensitivity of horizontal surface deformation to mantle dynamics from 3D instantaneous dynamics modeling of the eastern Mediterranean*, <a href="https://doi.org/10.31223/X5FW59" target="target">10.31223/X5FW59</a>.
 
 Bodur, O. et al. (2023). *Crustal flow driving twin domes exhumation and low-angle normal faulting in the Menderes Massif of western Anatolia*, Earth and Planetary Science Letters, 619, 118309, <a href="https://doi.org/10.1016/j.epsl.2023.118309" target="target">10.1016/j.epsl.2023.118309</a>.
 
-Heckenbach, E. L. et al. (in revision). *3D Interaction of Tectonics and Surface Processes explains Fault Network Evolution of the Dead Sea Fault*. Nature Communications.
+Heckenbach, E. L. et al. (in revision). *3D Interaction of Tectonics and Surface Processes explains Fault Network Evolution of the Dead Sea Fault*. Tektonika.
 
 Gernon, T. M. et al. (2023). *Rift-induced disruption of cratonic keels drives kimberlite volcanism*, Nature, 620, 344-350,<a href="https://doi.org/10.1038/s41586-023-06193-3" target="target">10.1038/s41586-023-06193-3</a>.
 
