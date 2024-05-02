@@ -6,7 +6,7 @@ title: Publications
 
 2024
 ----
-**Glerum** et al. (in review). *Geodynamic control on clastic-dominated metal deposits*, EGUsphere [preprint], <a href="https://doi.org/10.5194/egusphere-2023-2518"target="target">10.5194/egusphere-2023-2518</a>.
+**Glerum** et al. (in review). *Geodynamic control on clastic-dominated metal deposits*, EGUsphere [preprint], <a href="https://doi.org/10.5194/egusphere-2023-2518" target="target">10.5194/egusphere-2023-2518</a>.
 
 Vasey et al. (2024). *Impact of rift history on the structural style of intracontinental rift-inversion orogens*, Geology, <a href="https://doi.org/10.1130/G51489.1" target="target">10.1130/G51489.1</a>. 
 
