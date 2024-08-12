@@ -6,13 +6,16 @@ title: Publications
 
 2024
 ----
-**Glerum** et al. (in review). *Geodynamic control on clastic-dominated metal deposits*, EGUsphere [preprint], <a href="https://doi.org/10.5194/egusphere-2023-2518" target="target">10.5194/egusphere-2023-2518</a>.
+**Glerum** et al. (2024). *Geodynamic control on clastic-dominated metal deposits*, EGU Solid Earth, 15, 8, 921–944, <a href="https://doi.org/10.5194/se-15-921-2024" target="target">10.5194/se-15-921-2024</a>.
+
+Gernon et al. (2024). *Coevolution of craton margins and interiors during continental break-up*, Nature 632, 327–335, <a href="https://doi.org/10.1038/s41586-024-07717-1" target="target">10.1038/s41586-024-07717-1</a>.
 
 Vasey et al. (2024). *Impact of rift history on the structural style of intracontinental rift-inversion orogens*, Geology, <a href="https://doi.org/10.1130/G51489.1" target="target">10.1130/G51489.1</a>. 
 
+Zwaan et al. (accepted). *(D)rifting in the 21st century: Key processes, natural hazards and geo-resources*, EGUsphere [preprint], <a href="https://doi.org/10.5194/egusphere-2023-2548" target="target">10.5194/egusphere-2023-2548</a>.
+
 Zwaan et al. (in review). *Rift-inversion orogens are potential hotspots for natural H2 generation*, Research Square [preprint], <a href="https://doi.org/10.21203/rs.3.rs-3367317/v1" target="target">10.21203/rs.3.rs-3367317/v1</a>.
 
-Zwaan et al. (in review). *(D)rifting in the 21st century: Key processes, natural hazards and geo-resources*, EGUsphere [preprint], <a href="https://doi.org/10.5194/egusphere-2023-2548" target="target">10.5194/egusphere-2023-2548</a>.
 
 
 2023

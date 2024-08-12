@@ -5,13 +5,13 @@ title: Grants & Awards
 
 2024
 ----
+EGU Geodynamics Division [Outstanding Early Career Scientist Award](https://www.egu.eu/awards-medals/division-outstanding-ecs-award/2024/anne-glerum/).
+
 Core member *Exploring the geophysics of rocky planets through observations and models* together with Dr. Iris van Zelst and Dr. Julia Maia. GeoX Grow your idea funding for two round table meetings and a proposal writing retreat. 
 
 HPC time on HRLN cluster, Germany. Project: [The Afro-Arabian rift system](https://zulassung.hlrn.de/kurzbeschreibungen/bbp00064.pdf), phase 2. 17051 kCoreh.
 
 Project administrator HPC time on HRLN cluster, Germany. Project: [Geodynamic modeling of the crust, lithosphere and mantle](https://zulassung.hlrn.de/kurzbeschreibungen/bbp00039.pdf), phase 5. 31490 kCoreh.
-
-EGU Geodynamics Division [Outstanding Early Career Scientist Award](https://www.egu.eu/awards-medals/division-outstanding-ecs-award/2024/anne-glerum/). 
 
 2023
 ----
