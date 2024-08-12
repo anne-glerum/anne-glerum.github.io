@@ -3,13 +3,13 @@ layout: "page"
 title: Short CV
 ---
 
-Click [here](assets/Glerum_CV_2022.pdf) for a pdf of my complete CV.
+Click [here](assets/Glerum_CV_2024_2page.pdf) for a pdf of my complete CV.
 
 Research positions
 ----------------------
-2021 - 2024 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec31/" target="target">Postdoc at GFZ Potsdam</a> in the Inorganic and Isotope Geochemistry Section, working with Prof. Sarah Gleeson. 
+2021 - 2025 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec31/" target="target">Postdoc at GFZ Potsdam</a> in the Inorganic and Isotope Geochemistry Section, working with Prof. Dr. Sarah Gleeson, Dr. Philipp Weis and Dr. Joe Magnall.
 
-2017 - 2021 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec25/" target="target">Postdoc at GFZ Potsdam</a> in the Geodynamic Modeling section, working with Dr. habil. Sascha Brune. 
+2017 - 2021 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec25/" target="target">Postdoc at GFZ Potsdam</a> in the Geodynamic Modeling section, working with Prof. Dr. Sascha Brune. 
 
 2012 - 2017 PhD at Utrecht University.
 
