@@ -8,7 +8,7 @@ Oral contributions
 
 2024
 ====
-**Glerum** et al., *Geodynamic controls on sediment-hosted metal deposits*, Division ECS Award lecture EGU 2024.
+**Glerum** et al., *Cross-scale geodynamics of georesources*, GD Division Outstanding ECS Award lecture EGU 2024.
 
 **Glerum** et al. (invited), Ada Lovelace meeting 2024.
 
