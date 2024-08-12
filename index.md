@@ -13,7 +13,7 @@ I am a postdoctoral researcher at GFZ Potsdam in Germany. As a geodynamicist, I 
 
 Sediment-hosted zinc-lead deposits
 ----------------------------------
-At the moment, I am trying to pinpoint what geodynamic conditions make the formation of giant sediment-hosted metal deposits possible ([see here for the first article](https://doi.org/10.5194/se-15-921-2024)). The biggest source of lead and zinc, clastic-dominated mineral deposits in rifts and rifted margins are crucial for future societies and the energy transition. 
+At the moment, I am trying to pinpoint what geodynamic conditions make the formation of giant sediment-hosted metal deposits possible ([see here for the first article](https://doi.org/10.5194/se-15-921-2024)). The biggest source of zinc and lead globally, clastic-dominated mineral deposits in rifts and rifted margins are crucial for future societies and the energy transition. 
 
 East African Rift System
 ------------------------
