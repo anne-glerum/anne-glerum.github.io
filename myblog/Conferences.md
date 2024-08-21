@@ -8,7 +8,7 @@ Oral contributions
 
 2024
 ====
-**Glerum** et al., *Cross-scale geodynamics of georesources*, GD Division Outstanding ECS Award lecture EGU 2024.
+**Glerum** et al., *Cross-scale geodynamics of georesources*, Geodynamics Division Outstanding Early Career Scientist Award lecture EGU 2024, recording [here](https://meetingorganizer.copernicus.org/EGU24/sessionprogramme/US_GDB_MAL_PC).
 
 **Glerum** et al. (invited), Ada Lovelace meeting 2024.
 
