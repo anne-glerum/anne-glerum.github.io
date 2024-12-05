@@ -6,10 +6,13 @@ title: Publications
 In preparation
 --------------
 **Glerum et al.**. *The ambiguous effect of cratons on CD-type deposit formation*.
+
 **Glerum et al.**. *Particle-in-cell versus field methods in ASPECT: A comparison with visco-elasto-plastic models of continental rifting*.
 
 2024
 ----
+Li et al. (2024). *From orogeny to rifting: The role of inherited structures during the formation of the South China Sea*, JGR Solid Earth, 129, 12, <a href="https://doi.org/10.1029/2024JB029006" target="target">10.1029/2024JB029006</a>.
+
 **Glerum** et al. (2024). *Geodynamic control on clastic-dominated metal deposits*, EGU Solid Earth, 15, 8, 921–944, <a href="https://doi.org/10.5194/se-15-921-2024" target="target">10.5194/se-15-921-2024</a>.
 
 Gernon et al. (2024). *Coevolution of craton margins and interiors during continental break-up*, Nature 632, 327–335, <a href="https://doi.org/10.1038/s41586-024-07717-1" target="target">10.1038/s41586-024-07717-1</a>.
