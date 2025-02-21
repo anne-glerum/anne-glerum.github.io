@@ -5,7 +5,7 @@ title: Publications
 
 In preparation
 --------------
-**Glerum et al.**. *The ambiguous effect of cratons on CD-type deposit formation*.
+**Glerum et al.**. *Cratonic impact on clastic-dominated base metal deposits in continental rifts*.
 
 **Glerum et al.**. *Particle-in-cell versus field methods in ASPECT: A comparison with visco-elasto-plastic models of continental rifting*.
 
