@@ -5,9 +5,11 @@ title: Publications
 
 In preparation
 --------------
-**Glerum et al.**. *The ambiguous effect of cratons on CD-type deposit formation*.
+**Glerum et al.**. *Cratonic impact on clastic-dominated base metal deposits in continental rifts*.
 
 **Glerum et al.**. *Particle-in-cell versus field methods in ASPECT: A comparison with visco-elasto-plastic models of continental rifting*.
+
+Zwaan et al. (2025). *Rift-inversion orogens are potential hotspots for natural H2 generation*, Science Advances, 11, 8<a href="https://doi.org/10.1126/sciadv.adr3418" target="target">10.1126/sciadv.adr3418</a>. Press coverage on <a href="https://www.sciencefocus.com/news/hydrogen-gas-mountains" target="target">Science Focus</a>, <a href="https://edition.cnn.com/2025/02/19/climate/hydrogen-reservoirs-under-mountains" target="target">CNN</a>, <a href="https://www.n-tv.de/wissen/Forscher-vermuten-Wasserstoff-Hotspots-in-Gebirgen-article25574227.html" target="target">N-TV</a>.
 
 2024
 ----
@@ -20,8 +22,6 @@ Gernon et al. (2024). *Coevolution of craton margins and interiors during contin
 Vasey et al. (2024). *Impact of rift history on the structural style of intracontinental rift-inversion orogens*, Geology, <a href="https://doi.org/10.1130/G51489.1" target="target">10.1130/G51489.1</a>. 
 
 Zwaan et al. (2024). *(D)rifting in the 21st century: Key processes, natural hazards and geo-resources*, EGU Solid Earth, 15, 8, 989--1028, <a href="https://doi.org/10.5194/se-15-989-2024" target="target">10.5194/se-15-989-2024</a>.
-
-Zwaan et al. (in review). *Rift-inversion orogens are potential hotspots for natural H2 generation*, Research Square [preprint], <a href="https://doi.org/10.21203/rs.3.rs-3367317/v1" target="target">10.21203/rs.3.rs-3367317/v1</a>.
 
 
 
