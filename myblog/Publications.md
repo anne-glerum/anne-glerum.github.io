@@ -5,11 +5,20 @@ title: Publications
 
 In preparation
 --------------
-**Glerum et al.**. *Cratonic impact on clastic-dominated base metal deposits in continental rifts*.
-
 **Glerum et al.**. *Particle-in-cell versus field methods in ASPECT: A comparison with visco-elasto-plastic models of continental rifting*.
 
+
+Submitted
+--------------
+**Glerum et al.**. *Cratonic impact on clastic-dominated base metal deposits in continental rifts*.
+
+Li et al. *Pre-rift orogenic erosion facilitates the exhumation of lower crust at rifted margins*.
+
+
+2025
+----
 Zwaan et al. (2025). *Rift-inversion orogens are potential hotspots for natural H2 generation*, Science Advances, 11, 8<a href="https://doi.org/10.1126/sciadv.adr3418" target="target">10.1126/sciadv.adr3418</a>. Press coverage on <a href="https://www.sciencefocus.com/news/hydrogen-gas-mountains" target="target">Science Focus</a>, <a href="https://edition.cnn.com/2025/02/19/climate/hydrogen-reservoirs-under-mountains" target="target">CNN</a>, <a href="https://www.n-tv.de/wissen/Forscher-vermuten-Wasserstoff-Hotspots-in-Gebirgen-article25574227.html" target="target">N-TV</a>.
+
 
 2024
 ----
@@ -23,6 +32,7 @@ Vasey et al. (2024). *Impact of rift history on the structural style of intracon
 
 Zwaan et al. (2024). *(D)rifting in the 21st century: Key processes, natural hazards and geo-resources*, EGU Solid Earth, 15, 8, 989--1028, <a href="https://doi.org/10.5194/se-15-989-2024" target="target">10.5194/se-15-989-2024</a>.
 
+Heckenbach, E. L. et al. (2024). *3D Interaction of Tectonics and Surface Processes explains Fault Network Evolution of the Dead Sea Fault*. Tektonika,  2(2), 33–51, <a href="https://doi.org/10.55575/tektonika2024.2.2.75" target="target">10.55575/tektonika2024.2.2.75</a>.
 
 
 2023
@@ -31,7 +41,6 @@ Zwaan et al. (2024). *(D)rifting in the 21st century: Key processes, natural haz
 
 Bodur, O. et al. (2023). *Crustal flow driving twin domes exhumation and low-angle normal faulting in the Menderes Massif of western Anatolia*, Earth and Planetary Science Letters, 619, 118309, <a href="https://doi.org/10.1016/j.epsl.2023.118309" target="target">10.1016/j.epsl.2023.118309</a>.
 
-Heckenbach, E. L. et al. (in revision). *3D Interaction of Tectonics and Surface Processes explains Fault Network Evolution of the Dead Sea Fault*. Tektonika.
 
 Gernon, T. M. et al. (2023). *Rift-induced disruption of cratonic keels drives kimberlite volcanism*, Nature, 620, 344-350,<a href="https://doi.org/10.1038/s41586-023-06193-3" target="target">10.1038/s41586-023-06193-3</a>.
 
