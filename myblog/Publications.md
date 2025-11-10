@@ -8,15 +8,20 @@ In preparation
 **Glerum et al.**. *Particle-in-cell versus field methods in ASPECT: A comparison with visco-elasto-plastic models of continental rifting*.
 
 
-Submitted
+In revision
 --------------
 **Glerum et al.**. *Cratonic impact on clastic-dominated base metal deposits in continental rifts*.
 
-Li et al. *Pre-rift orogenic erosion facilitates the exhumation of lower crust at rifted margins*.
 
 
 2025
 ----
+Magri et al. (2025). *Thermo-Mechanical Rift Evolution of Large Igneous Province Crust*, Tectonics, 44, e2025TC008878, <a href="https://doi.org/10.1029/2025TC008878" target="target">10.1029/2025TC008878</a>.
+
+
+Li et al. (2025). *Pre-Rift Orogenic Erosion Facilitates the Exhumation of Lower Crust at Rifted Margins*, Geophysical Research Letters, 52, e2024GL113543, <a href="https://doi.org/10.1029/2024GL113543" target="target">10.1029/2024GL113543</a>.
+
+
 Zwaan et al. (2025). *Rift-inversion orogens are potential hotspots for natural H2 generation*, Science Advances, 11, 8, <a href="https://doi.org/10.1126/sciadv.adr3418" target="target">10.1126/sciadv.adr3418</a>. Press coverage on <a href="https://www.sciencefocus.com/news/hydrogen-gas-mountains" target="target">Science Focus</a>, <a href="https://edition.cnn.com/2025/02/19/climate/hydrogen-reservoirs-under-mountains" target="target">CNN</a>, <a href="https://www.n-tv.de/wissen/Forscher-vermuten-Wasserstoff-Hotspots-in-Gebirgen-article25574227.html" target="target">N-TV</a>.
 
 
