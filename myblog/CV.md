@@ -5,11 +5,15 @@ title: Short CV
 
 Click [here](assets/Glerum_CV_2024_2page.pdf) for a pdf of my complete CV.
 
+ORCID: <a href="https://orcid.org/0000-0002-9481-1749" target="target">0000-0002-9481-1749</a>
+Scopus ID: 56786155700
+Google Scholar <a href="https://scholar.google.ca/citations?user=VTkh5cMAAAAJ&hl=en&oi=ao" target="target">profile</a>
+
 Research positions
 ----------------------
-2021 - 2025 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec31/" target="target">Postdoc at GFZ Potsdam</a> in the Inorganic and Isotope Geochemistry Section, working with Prof. Dr. Sarah Gleeson, Dr. Philipp Weis and Dr. Joe Magnall.
+2021 - 2025 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec31/" target="target">Postdoc at GFZ Potsdam</a> in the Inorganic and Isotope Geochemistry section, working with Prof. Dr. Sarah Gleeson, Prof. Dr. Philipp Weis and Dr. Joe Magnall.
 
-2017 - 2021 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec25/" target="target">Postdoc at GFZ Potsdam</a> in the Geodynamic Modeling section, working with Prof. Dr. Sascha Brune. 
+2017 - 2021 Postdoc at GFZ Potsdam in the Geodynamic Modeling section, working with Prof. Dr. Sascha Brune. 
 
 2012 - 2017 PhD at Utrecht University.
 
@@ -21,9 +25,9 @@ Industry experience
 
 Education
 ----------
-2009 - 2012 MSc Geophysics at Utrecht University, *cum laude*.
+2009 - 2012 MSc Geophysics at Utrecht University, *highest distinction (cum laude in the Netherlands)*.
 
 2008 - 2009 Exchange program at Macquarie University.
 
-2006 - 2009 BSc Earth Sciences at Utrecht University, *cum laude*.
+2006 - 2009 BSc Earth Sciences at Utrecht University, *highest distinction (cum laude in the Netherlands)*.
 

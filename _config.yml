@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dr. Anne Glerum
-email: acglerum@gfz-potsdam.de
+email: acglerum@gfz.de
 github_username:  anne-glerum
 linkedin_username: acglerum
 #facebook_username: Anne Glerum

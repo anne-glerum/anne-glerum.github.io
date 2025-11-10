@@ -6,19 +6,24 @@ title: Hobbies
 Reading
 -------
 
-I love reading. And when I can't *read* a book, I'll listen to one. Here my favorite books of 2023: 
-  * _The one hundred years of Lenni and Margot_ by Marianne Cronin.
-  * _The summer before the war_ by Helen Simonson.
-  * _A week in winter_ by Maeve Bincy.
-  * _The girl from Berlin_ by Ronald H. Balson.
-  * _My murder_ by Katie Williams.
-  * _Snow crash_ by Neal Stephenson.
-  * _Wool_ by Hugh Howey.
-  * _The invisible life of Addie LaRue_ by V. E. Schwab.
-  * _Between to moons_ by Aisha Abdel Gawad.
-  * _The three-body problem_ by Liu Cixin.
-  * _Leviathan wakes_ by James S. A. Corey.
-  * _Silent Earth: Averting the insect apocolypse_ by Dave Goulson.
+I love reading. And when I can't *read* a book, I'll listen to one. Here my favorite books of 2024: 
+  * _1984_ by George Orwell.
+  * _Elefant_ by Martin Suter.
+  * _Wir sind das Klima!_ by Jonathan Safran Foer.
+  * _A long way down_ by Nick Hornby. 
+  * _Augustown_ by Kei Miller.
+  * _The seven moons of Maali Almeida_ by Shehan Karunatilaka.
+  * _Der Hundertjaehrige, der aus dem Fenster stieg und verschwandt_ by Jonas Jonasson.
+  * _The dictionary of lost words_ by Pip Williams.
+  * _The shock doctrine: the rise of disaster capitalism_ by Naomi Klein.
+  * _Delta-V #1_ by Daniel Suarez.
+  * _The new climate war: the fight to take back our planet_ by Michael E. Mann.
+  * _Five little Indians_ by Michelle Good.
+  * _Kintu_ by Jennifer Nansubuga Makumbi.
+  * _Middle England_ by Jonathan Coe.
+  * _The light pirate_ by Lily Brooks-Dalton.
+  * _SoKo Heidefieber_ by Gerhard Henschel.
+  * _Shit Cassandra saw_ by Gwen E. Kirby.
 
 
 Gardening
