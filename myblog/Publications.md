@@ -8,9 +8,11 @@ In preparation
 **Glerum et al.**. *Particle-in-cell versus field methods in ASPECT: A comparison with visco-elasto-plastic models of continental rifting*.
 
 
-In revision
+2026
 --------------
-**Glerum et al.**. *Cratonic impact on clastic-dominated base metal deposits in continental rifts*.
+**Glerum et al.** (2026). *Cratonic impact on clastic-dominated base metal deposits in continental rifts*, Earth and Planetary Science Letters, 680, 119881, <a href="https://doi.org/10.1016/j.epsl.2026.119881" target="target">10.1016/j.epsl.2026.119881</a>.
+
+Wang et al. (2026). *Dynamic controls on salt structures and translation velocity at continental rifted margins*, JGR Solid Earth, 131, 1, e2025JB032143, <a href="https://doi.org/10.1029/2025JB032143" target="target">10.1029/2025JB032143</a>.
 
 
 

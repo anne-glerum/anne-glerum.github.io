@@ -11,11 +11,13 @@ Google Scholar <a href="https://scholar.google.ca/citations?user=VTkh5cMAAAAJ&hl
 
 Research positions
 ----------------------
-2021 - 2025 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec31/" target="target">Postdoc at GFZ Potsdam</a> in the Inorganic and Isotope Geochemistry section, working with Prof. Dr. Sarah Gleeson, Prof. Dr. Philipp Weis and Dr. Joe Magnall.
+April 2026 Postdoc at GFZ Helmholtz Centre for Geosciences in the Geodynamic Modeling section, working with Prof. Dr. Sascha Brune as well as Dr. Rene Gassmoeller and Prof. Dr. Juliane Dannberg from GEOMAR Helmholtz Centre for Ocean Research Kiel.. 
+
+2021 - March 2026 <a href="https://www.gfz-potsdam.de/en/staff/anne-glerum/sec31/" target="target">Postdoc at the GFZ Helmholtz Centre for Geosciences</a> in the Inorganic and Isotope Geochemistry section, working with Prof. Dr. Sarah Gleeson, Prof. Dr. Philipp Weis and Dr. Joe Magnall.
 
 2017 - 2021 Postdoc at GFZ Potsdam in the Geodynamic Modeling section, working with Prof. Dr. Sascha Brune. 
 
-2012 - 2017 PhD at Utrecht University.
+2012 - 2017 PhD candidate at Utrecht University.
 
 &nbsp;  &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp;   &nbsp; &nbsp;   &nbsp;  &nbsp;Dissertation: <a href="https://dspace.library.uu.nl/handle/1874/377338" target="target">Geodynamics of complex plate boundary zones</a>
 
