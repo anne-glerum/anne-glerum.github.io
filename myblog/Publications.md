@@ -5,11 +5,13 @@ title: Publications
 
 In preparation
 --------------
-**Glerum et al.**. *Particle-in-cell versus field methods in ASPECT: A comparison with visco-elasto-plastic models of continental rifting*.
+**Glerum et al.**. *Stress-tracking algorithms in geodynamic models with a viscoelastic-viscoplastic rheology: Comparing accuracy and performance of field and particle methods*.
 
 
 2026
 --------------
+Zwaan, F. Glerum, A. C., Brune, S., Vasey, D. A., Naliboff, J. B., Manatschal, G. and Gaucher, E. C. (2026). *The impact of erosion efficiency on rift-inversion orogen evoluiton: implications for serpentinization-derived natural H2 resources*, Journal of Geophysical Research: Solid Earth 131, e2025JB033255, <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033255" target="target">10.1029/2025JB033255</a>.
+
 **Glerum et al.** (2026). *Cratonic impact on clastic-dominated base metal deposits in continental rifts*, Earth and Planetary Science Letters, 680, 119881, <a href="https://doi.org/10.1016/j.epsl.2026.119881" target="target">10.1016/j.epsl.2026.119881</a>.
 
 Wang et al. (2026). *Dynamic controls on salt structures and translation velocity at continental rifted margins*, JGR Solid Earth, 131, 1, e2025JB032143, <a href="https://doi.org/10.1029/2025JB032143" target="target">10.1029/2025JB032143</a>.
